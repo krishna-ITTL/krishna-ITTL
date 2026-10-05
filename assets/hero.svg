@@ -71,10 +71,10 @@
 
   <g transform="translate(72 190)">
     <rect width="150" height="26" rx="13" fill="#00e5ff"/>
-    <text x="75" y="18" text-anchor="middle" class="tag">EEE ENGINEER</text>
+    <text x="75" y="18" text-anchor="middle" class="tag">FULL STACK</text>
     <rect x="162" width="150" height="26" rx="13" fill="#ffb300"/>
-    <text x="237" y="18" text-anchor="middle" class="tag">FULL STACK</text>
-    <rect x="324" width="176" height="26" rx="13" fill="#7cf9ff"/>
-    <text x="412" y="18" text-anchor="middle" class="tag">AUTOMATION @ ITTL</text>
+    <text x="237" y="18" text-anchor="middle" class="tag">AUTOMATION</text>
+    <rect x="324" width="210" height="26" rx="13" fill="#7cf9ff"/>
+    <text x="429" y="18" text-anchor="middle" class="tag">FACTORY-FLOOR SOFTWARE</text>
   </g>
 </svg>
