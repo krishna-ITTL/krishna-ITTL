@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56" role="img" aria-label="161,000 VOLTS BY DAY. NINE APPS BY NIGHT. ZERO SPREADSHEETS LEFT ALIVE. YOUR MANUAL STEP IS LIVING ON BORROWED TIME.">
+  <rect width="1200" height="56" fill="#050b18"/>
+  <rect y="0" width="1200" height="2" fill="#00e5ff"/>
+  <rect y="54" width="1200" height="2" fill="#ffb300"/>
+  <g font-family="'JetBrains Mono', Consolas, monospace" font-size="22" font-weight="700" fill="#00e5ff">
+    <text x="0" y="36" textLength="2100" xml:space="preserve">161,000 VOLTS BY DAY   ///   NINE APPS BY NIGHT   ///   ZERO SPREADSHEETS LEFT ALIVE   ///   YOUR MANUAL STEP IS LIVING ON BORROWED TIME   ///   </text>
+    <text x="2100" y="36" textLength="2100" xml:space="preserve">161,000 VOLTS BY DAY   ///   NINE APPS BY NIGHT   ///   ZERO SPREADSHEETS LEFT ALIVE   ///   YOUR MANUAL STEP IS LIVING ON BORROWED TIME   ///   </text>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-2100 0" dur="22s" repeatCount="indefinite"/>
+  </g>
+</svg>

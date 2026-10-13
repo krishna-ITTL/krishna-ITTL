@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=900&color=00E5FF&center=true&vCenter=true&width=780&height=44&lines=I+don't+do+busywork.+I+delete+it.;Built+for+the+factory+floor%2C+not+the+demo+day.;7+apps.+Real+users.+Every+single+shift.;Your+spreadsheet+called.+It+wants+an+app." alt="I don't do busywork. I delete it."/>
 
 <a href="mailto:Krishna.Raju@indo-tech.com"><img src="https://img.shields.io/badge/Say_hi-FFB300?style=for-the-badge&logo=maildotru&logoColor=050b18" alt="Email"/></a>
-<a href="https://krishna-ittl.github.io/Job-Lens/"><img src="https://img.shields.io/badge/Try_Job_Lens-00E5FF?style=for-the-badge&logo=githubpages&logoColor=050b18" alt="Job Lens live demo"/></a>
+<a href="https://krishna-ittl.github.io/Candidate-Screener/"><img src="https://img.shields.io/badge/Try_Job_Lens-00E5FF?style=for-the-badge&logo=githubpages&logoColor=050b18" alt="Job Lens live demo"/></a>
 <a href="https://krishna-ittl.github.io/dmat-practice/"><img src="https://img.shields.io/badge/Try_dMAT_Practice-7CF9FF?style=for-the-badge&logo=githubpages&logoColor=050b18" alt="dMAT live app"/></a>
 <img src="https://komarev.com/ghpvc/?username=krishna-ITTL&style=for-the-badge&color=050b18&label=VISITORS+CHARGED" alt="Profile views"/>
 
@@ -15,6 +15,42 @@
 <img src="./assets/terminal.svg" width="720" alt="$ whoami — builds the software a transformer factory actually runs on"/>
 
 </div>
+
+<img src="./assets/ticker.svg" width="100%" alt="161,000 volts by day. Nine apps by night. Zero spreadsheets left alive. Your manual step is living on borrowed time."/>
+
+<!-- ══════════ NOW SHOWING ══════════ -->
+<h2 align="center">🎬 Now showing: I turned my career into two websites</h2>
+<p align="center"><sub>One has a 3D transformer that hums. The other reads me like a frequency sweep. Both ship with sound.</sub></p>
+
+<p align="center">
+  <a href="https://github.com/KRISH-exe-29/KRISH_Portfolio/tree/portfolio/krish-exe"><img src="./assets/krish-exe.gif" width="49%" alt="Krish.exe: a 3D power transformer turns as the page scrolls, under the lines 161,000 volts, one engineer, zero spreadsheets"/></a>
+  <a href="https://github.com/KRISH-exe-29/KRISH_Portfolio/tree/portfolio/sweep"><img src="./assets/sweep.gif" width="49%" alt="Sweep: three phase traces sweep from 20 Hz to 2 MHz as the page scrolls, ending on Send it over"/></a>
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">⚡<br/><b>Krish.exe</b><br/><sub>161,000 volts. One engineer. Zero spreadsheets.<br/>Scroll and the unit wakes up.</sub></td>
+<td align="center" width="50%">📈<br/><b>Sweep</b><br/><sub>20 Hz to 2 MHz. Core, windings, connections.<br/>Receipts, not adjectives.</sub></td>
+</tr>
+</table>
+
+<p align="center"><a href="https://krish-exe-29.github.io/KRISH_Portfolio/"><img src="https://img.shields.io/badge/Open_the_live_portfolio-FFB300?style=for-the-badge&logo=githubpages&logoColor=050b18" alt="Open the live portfolio"/></a></p>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<!-- ══════════ RECEIPTS ══════════ -->
+<h2 align="center">🧾 Receipts, not adjectives</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="25%"><h1>9</h1><b>apps in production</b><br/><sub>on a real transformer shop floor</sub></td>
+<td align="center" width="25%"><h1>128</h1><b>tests guarding dispatch</b><br/><sub>so the gate pass never lies</sub></td>
+<td align="center" width="25%"><h1>2 h → 5 min</h1><b>test planning</b><br/><sub>the waiting part, deleted</sub></td>
+<td align="center" width="25%"><h1>30 min → 30 s</h1><b>hardware paperwork</b><br/><sub>PDF in, weighted BOM out</sub></td>
+</tr>
+</table>
+
+<p align="center"><b>Hand me your worst spreadsheet.</b> It will not survive the week.</p>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -37,7 +73,7 @@
 | | Project | The flex | Stack | Status |
 |:-:|:--|:--|:--|:-:|
 | 🚚 | **Dispatch Management System** | Work order → packing → loading → vehicle gate → out the door. 5 roles, dispatch calendar, auto email escalations, server-down alerts, 128 tests guarding it | `React 19` `Vite` `Supabase` `PL/pgSQL` `Vitest` | ![](https://img.shields.io/badge/PRODUCTION-00e5ff?style=flat-square&labelColor=050b18) |
-| 🔍 | [**Job Lens**](https://github.com/krishna-ITTL/Job-Lens) | Every resume read, the best ones on top. Scores against one rubric, checks ATS readiness, works fully offline or with Claude / ChatGPT / Gemini | `TypeScript` `React` `Transformers.js` `Tesseract.js` `GSAP` | [![](https://img.shields.io/badge/LIVE_DEMO-ffb300?style=flat-square&labelColor=050b18)](https://krishna-ittl.github.io/Job-Lens/) |
+| 🔍 | [**Job Lens**](https://github.com/krishna-ITTL/Job-Lens) | Every resume read, the best ones on top. Scores against one rubric, checks ATS readiness, works fully offline or with Claude / ChatGPT / Gemini | `TypeScript` `React` `Transformers.js` `Tesseract.js` `GSAP` | [![](https://img.shields.io/badge/LIVE_DEMO-ffb300?style=flat-square&labelColor=050b18)](https://krishna-ittl.github.io/Candidate-Screener/) |
 | 🧰 | [**RTCC & M.Box Tracker**](https://github.com/krishna-ITTL/RTCC-and-M.BOX-PROJECT) | Inspection → testing → clearance for RTCC panels & marshalling boxes. Chases pending points with 48-hour auto emails so nobody has to | `React` `Express` `node-cron` `Nodemailer` `Postgres` | ![](https://img.shields.io/badge/IN_USE-00e5ff?style=flat-square&labelColor=050b18) |
 | 📊 | [**Testing Data Acquisition**](https://github.com/krishna-ITTL/Testing-s-Data-Acquisition-) | Transformer test data, captured clean, exported to Excel, tagged with QR codes | `React` `Express` `sql.js` `ExcelJS` | ![](https://img.shields.io/badge/SHIPPED-7cf9ff?style=flat-square&labelColor=050b18) |
 | 📅 | [**EPMS**](https://github.com/krishna-ITTL/Project-Management-System) | Glassmorphism project HQ with Gantt charts, milestones, tasks and team management | `TypeScript` `React` `Express` `Tailwind` `Supabase` | ![](https://img.shields.io/badge/BUILT-7cf9ff?style=flat-square&labelColor=050b18) |
