@@ -19,7 +19,6 @@
 <img src="./assets/ticker.svg" width="100%" alt="161,000 volts by day. Nine apps by night. Zero spreadsheets left alive. Your manual step is living on borrowed time."/>
 
 <!-- ══════════ NOW SHOWING ══════════ -->
-<h2 align="center">🎬 Now showing: I turned my career into two websites</h2>
 <p align="center"><sub>One has a 3D transformer that hums. The other reads me like a frequency sweep. Both ship with sound.</sub></p>
 
 <p align="center">
