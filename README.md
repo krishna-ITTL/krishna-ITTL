@@ -18,25 +18,6 @@
 
 <img src="./assets/ticker.svg" width="100%" alt="161,000 volts by day. Nine apps by night. Zero spreadsheets left alive. Your manual step is living on borrowed time."/>
 
-<!-- ══════════ NOW SHOWING ══════════ -->
-<p align="center"><sub>One has a 3D transformer that hums. The other reads me like a frequency sweep. Both ship with sound.</sub></p>
-
-<p align="center">
-  <a href="https://github.com/KRISH-exe-29/KRISH_Portfolio/tree/portfolio/krish-exe"><img src="./assets/krish-exe.gif" width="49%" alt="Krish.exe: a 3D power transformer turns as the page scrolls, under the lines 161,000 volts, one engineer, zero spreadsheets"/></a>
-  <a href="https://github.com/KRISH-exe-29/KRISH_Portfolio/tree/portfolio/sweep"><img src="./assets/sweep.gif" width="49%" alt="Sweep: three phase traces sweep from 20 Hz to 2 MHz as the page scrolls, ending on Send it over"/></a>
-</p>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">⚡<br/><b>Krish.exe</b><br/><sub>161,000 volts. One engineer. Zero spreadsheets.<br/>Scroll and the unit wakes up.</sub></td>
-<td align="center" width="50%">📈<br/><b>Sweep</b><br/><sub>20 Hz to 2 MHz. Core, windings, connections.<br/>Receipts, not adjectives.</sub></td>
-</tr>
-</table>
-
-<p align="center"><a href="https://krish-exe-29.github.io/KRISH_Portfolio/"><img src="https://img.shields.io/badge/Open_the_live_portfolio-FFB300?style=for-the-badge&logo=githubpages&logoColor=050b18" alt="Open the live portfolio"/></a></p>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
 <!-- ══════════ RECEIPTS ══════════ -->
 <h2 align="center">🧾 Receipts, not adjectives</h2>
 
